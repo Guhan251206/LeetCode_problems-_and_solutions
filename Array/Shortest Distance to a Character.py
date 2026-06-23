@@ -1,5 +1,5 @@
 class Solution:
-    def shortestToChar(self, s: str, c: str) -> List[int]:
+    def shortestToChar(self, s: str, c: str):
         a=[]
         b=[]
         for i in range(len(s)):
